@@ -1,0 +1,1 @@
+Tha Because I have to use malloc to create buffer so that it can copy the content from the txt file, will there be any file that the size is larger than the maximum bytes of malloc? (I read the txt file as a whole and then separate it into small string token. if the txt file is larger than the maximum bytes of malloc, it will fail)
